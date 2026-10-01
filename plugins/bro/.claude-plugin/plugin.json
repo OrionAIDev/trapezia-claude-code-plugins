@@ -1,0 +1,7 @@
+{
+  "name": "bro",
+  "version": "1.0.0",
+  "description": "Reset after a wall of text or an unclear message: recap the last point like a short update to a non-technical boss.",
+  "author": { "name": "OrionAIDev" },
+  "license": "MIT"
+}

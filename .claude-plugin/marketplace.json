@@ -1,0 +1,11 @@
+{
+  "name": "trapezia-claude-code-plugins",
+  "owner": { "name": "OrionAIDev" },
+  "plugins": [
+    {
+      "name": "bro",
+      "source": "./plugins/bro",
+      "description": "Reset after a wall of text or an unclear message: recap the last point like a short update to a non-technical boss."
+    }
+  ]
+}
