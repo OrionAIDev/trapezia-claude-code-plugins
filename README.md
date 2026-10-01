@@ -28,6 +28,10 @@ plugins/<name>/                   # one plugin per folder
   commands/  skills/  agents/  hooks/
 ```
 
+## Checks
+
+CI runs `python scripts/validate.py` on every push and pull request; run it locally before committing.
+
 ## License
 
 MIT
